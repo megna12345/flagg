@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(157, 148, 165);
+}
+
+.megna0{
+    height: 150px;
+    width: 300px;
+    background-color: green;
+    position: relative;
+}
+.megna1{
+    height:100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+}
+
+.megna4{
+    height: 150px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+   
+  
+}
+
+
+
+    
+  
+
+
+
+
